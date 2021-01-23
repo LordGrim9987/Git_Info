@@ -1,0 +1,13 @@
+Click the Pull Request tab, then from the Pull Request page, click the green New pull request button.
+
+Select the branch you made, to compare with main (the original).
+
+Look over your changes in the diffs on the Compare page, make sure they’re what you want to submit.
+
+When you’re satisfied that these are the changes you want to submit, click the big green Create Pull Request button.
+
+Give your pull request a title and write a brief description of your changes.
+
+Click the green Merge pull request button to merge the changes into main. Click Confirm merge.
+
+Go ahead and delete the branch, since its changes have been incorporated, with the Delete branch button in the purple box.
