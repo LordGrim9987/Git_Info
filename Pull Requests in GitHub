@@ -5,3 +5,5 @@ When you open a pull request, you’re proposing your changes and requesting tha
 As soon as you make a commit, you can open a pull request and start a discussion, even before the code is finished.
 
 By using GitHub’s @mention system in your pull request message, you can ask for feedback from specific people or teams, whether they’re down the hall or 10 time zones away.
+
+You need to have more than one branch in a repository, and not just main, for pull requests
