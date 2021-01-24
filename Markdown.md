@@ -17,4 +17,20 @@
 
 > Coffee is best
 
+`var example = true`
+    
+    if (isAwesome){
+          return true
+        }
 
+```
+ if (isAwesome){
+      return true
+    }
+```
+
+```C++
+ if (isAwesome){
+      return true
+    }
+```
