@@ -7,3 +7,5 @@ To fork the Git_Info repository, click the Fork button in the header of the repo
 Sit back and watch the forking magic. When it’s finished, you’ll be taken to your copy of the Git_Info repository.
 
 You’ve successfully forked the repository, but so far, it only exists on GitHub. To be able to work on the project, you will need to clone it to your computer.
+
+After cloning and editing the files of the repository in your computer, and then pushing the changes to Git, you can Pull Request your changes.
