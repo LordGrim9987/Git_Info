@@ -1,0 +1,9 @@
+Creating a “fork” is producing a personal copy of someone else’s project. Forks act as a sort of bridge between the original repository and your personal copy. 
+
+You can submit Pull Requests to help make other people’s projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
+
+To fork the Git_Info repository, click the Fork button in the header of the repository.
+
+Sit back and watch the forking magic. When it’s finished, you’ll be taken to your copy of the Git_Info repository.
+
+You’ve successfully forked the repository, but so far, it only exists on GitHub. To be able to work on the project, you will need to clone it to your computer.
