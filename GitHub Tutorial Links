@@ -5,3 +5,5 @@ https://docs.github.com/en/github/managing-files-in-a-repository/moving-a-file-t
 Mastering Markdown in GitHub:
 
 https://guides.github.com/features/mastering-markdown/
+
+You can use markdown in files containing .md(markdown) extension, as well as in comments in issues and pull requests
